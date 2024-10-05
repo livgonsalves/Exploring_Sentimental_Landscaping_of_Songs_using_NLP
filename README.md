@@ -1,4 +1,4 @@
-#🎶 Exploring Sentimental Landscaping of Songs using NLP 🎶
+#🎶 Exploring Sentimental Landscaping of Songs using NLP 🎶#
 
 <!-- Optional: Add a banner image related to your project -->
 
